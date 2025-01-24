@@ -36,6 +36,15 @@ This dashboard provides a comprehensive analysis of a certain company's sales an
 
 ---
 
+### **4. Use Slicers to;
+- Reveal top and Low performing regions
+- Most profitable product category
+- Most ordered product category
+- Reveal Yearly sale, rentention and total order
+- Regional  sale, rentention and total order
+
+---
+
 ## **Visuals in the Dashboard**
 ### **1. Bar Charts**
 - Delivery performance categorized by shipping status (e.g., Late, On-Time, Advance Shipping).
@@ -64,7 +73,9 @@ This dashboard provides a comprehensive analysis of a certain company's sales an
    - Analyze sales and delivery patterns across regions for better resource allocation.
 
 ---
-
+## **Tools Used
+1. Power BI: Power query, Dax function, Modelling tool and visualisation.
+   
 ## **Next Steps**
 1. Dive deeper into delayed shipments to identify root causes and propose solutions.
 2. Expand customer segmentation analysis to understand behavior better.
