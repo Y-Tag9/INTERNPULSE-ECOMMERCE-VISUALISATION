@@ -3,6 +3,8 @@
 ## **Overview**
 This dashboard provides a comprehensive analysis of a certain company's sales and operational performance. It highlights key metrics, including total sales, delivery patterns, customer retention, and segmentation. The dashboard is designed to monitor business performance, identify trends, and evaluate customer behavior effectively.
 
+![InternPulse Dashboard](https://github.com/Y-Tag9/INTERNPULSE-ECOMMERCE-VISUALISATION/blob/main/internpulse.png "Dashboard Screenshot")
+
 
 ---
 
